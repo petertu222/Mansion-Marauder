@@ -13,28 +13,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-02-04T12:33:05.417-05:00
-  initializedAtString: 2019-02-04T12:29:35.750-05:00
-  localBranches: []
-  remoteBranches: []
+  lastUpdatedAtString: 2019-02-04T12:48:14.734-05:00
+  initializedAtString: 2019-02-04T12:48:14.713-05:00
+  localBranches:
+  - name: master
+    tracking: origin/master
+  remoteBranches:
+  - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/master
+    tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/shacklesmcgee/Test.git
+    url: https://github.com/petertu222/Mansion-Marauder.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - master
+    values:
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/petertu222/Mansion-Marauder.git
+      trackingBranch: master
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - HEAD
+      - master
+    subKeyValues:
+    - Values:
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/petertu222/Mansion-Marauder.git
+        trackingBranch: 
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/petertu222/Mansion-Marauder.git
+        trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/shacklesmcgee/Test.git
+      url: https://github.com/petertu222/Mansion-Marauder.git
