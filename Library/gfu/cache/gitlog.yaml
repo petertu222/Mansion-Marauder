@@ -13,9 +13,57 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-02-04T12:49:52.581-05:00
+  lastUpdatedAtString: 2019-02-04T12:50:37.626-05:00
   initializedAtString: 2019-02-04T12:42:29.094-05:00
   log:
+  - commitID: 60308ce88c87d04876db6fec0da2c63b31d7bf88
+    mergeA: 
+    mergeB: 
+    authorName: Ben
+    authorEmail: benmilette@gmail.com
+    commitEmail: benmilette@gmail.com
+    commitName: Ben
+    summary: Test3
+    description: Test3
+    timeString: 2019-02-04T12:50:17.000-05:00
+    commitTimeString: 2019-02-04T12:50:17.000-05:00
+    changes:
+    - path: Library\CrashedAssetImports.txt
+      fullPath: D:\GitHub\Mansion-Marauder\Library\CrashedAssetImports.txt
+      projectPath: Library\CrashedAssetImports.txt
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\GitHub\Mansion-Marauder\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\GitHub\Mansion-Marauder\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\GitHub\Mansion-Marauder\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\GitHub\Mansion-Marauder\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\GitHub\Mansion-Marauder\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: b5e4ef1f73415253f4b004bbd9133c606b3ce34a
     mergeA: 
     mergeB: 

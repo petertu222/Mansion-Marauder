@@ -13,14 +13,38 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-02-04T12:49:55.984-05:00
+  lastUpdatedAtString: 2019-02-04T12:51:22.712-05:00
   initializedAtString: 2019-02-04T12:41:36.363-05:00
   entries:
+  - path: Assets\Meshes\coin_shrink.fbx
+    fullPath: D:\GitHub\Mansion-Marauder\Assets\Meshes\coin_shrink.fbx
+    projectPath: Assets\Meshes\coin_shrink.fbx
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Meshes\coin_shrink.fbx.meta
+    fullPath: D:\GitHub\Mansion-Marauder\Assets\Meshes\coin_shrink.fbx.meta
+    projectPath: Assets\Meshes\coin_shrink.fbx.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\assetDatabase3
+    fullPath: D:\GitHub\Mansion-Marauder\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\Collab\CollabSnapshot_34cf7d77-a8cb-4726-a220-18801aae45d8.txt
+    fullPath: D:\GitHub\Mansion-Marauder\Library\Collab\CollabSnapshot_34cf7d77-a8cb-4726-a220-18801aae45d8.txt
+    projectPath: Library\Collab\CollabSnapshot_34cf7d77-a8cb-4726-a220-18801aae45d8.txt
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Library\CrashedAssetImports.txt
     fullPath: D:\GitHub\Mansion-Marauder\Library\CrashedAssetImports.txt
     projectPath: Library\CrashedAssetImports.txt
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Library\gfu\cache\branches.yaml
     fullPath: D:\GitHub\Mansion-Marauder\Library\gfu\cache\branches.yaml
@@ -51,6 +75,24 @@ MonoBehaviour:
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     status: 3
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\GitHub\Mansion-Marauder\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\83\83bec8709f2871b439ed1a2ad691f77e
+    fullPath: D:\GitHub\Mansion-Marauder\Library\metadata\83\83bec8709f2871b439ed1a2ad691f77e
+    projectPath: Library\metadata\83\83bec8709f2871b439ed1a2ad691f77e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\83\83bec8709f2871b439ed1a2ad691f77e.info
+    fullPath: D:\GitHub\Mansion-Marauder\Library\metadata\83\83bec8709f2871b439ed1a2ad691f77e.info
+    projectPath: Library\metadata\83\83bec8709f2871b439ed1a2ad691f77e.info
+    originalPath: 
+    status: 1
     staged: 0
   - path: Temp\UnityLockfile
     fullPath: D:\GitHub\Mansion-Marauder\Temp\UnityLockfile
